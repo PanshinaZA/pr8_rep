@@ -61,7 +61,7 @@
 
 Задание 4: SQL Анализ. SQL: Подсчитать записи в sales_small, где cost = 0.50.
 
-Задание 5: Python/Colab Анализ и Визуализация. Python: Рассчитать стандартное отклонение quantity из sales_big (LIMIT 50000).
+Задание 5: Python Анализ и Визуализация. Python: Рассчитать стандартное отклонение quantity из sales_big (LIMIT 50000).
 
 
 
