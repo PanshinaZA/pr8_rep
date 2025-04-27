@@ -37,7 +37,7 @@
 
 Проверяем все ли вспомогательные функции работают:
 
-![image](https://github.com/user-attachments/assets/7cbfd82f-9558-43b1-9e52-81a18f42dc1a)
+![image](https://github.com/user-attachments/assets/ac23d4e2-204e-4198-a80d-b61c789d3063)
 
 Задание 1: Настройка таблиц. Создаем таблицы sales_small, sales_big.
 
