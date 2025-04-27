@@ -69,7 +69,7 @@
 Задание 5: Python Анализ. Python: Рассчитать стандартное отклонение quantity из sales_big (LIMIT 50000).
 
 ![image](https://github.com/user-attachments/assets/516cc268-2a8e-4dab-9b7f-6d5880244559)
-![image](https://github.com/user-attachments/assets/6d8b3244-c6ac-4389-bbf0-4838c46beb46)
+![image](https://github.com/user-attachments/assets/97d6979b-c71a-407a-b66f-5178b53565d8)
 
 ## Выводы:
 В ходе выполнения лабораторной работы были успешно освоены методы загрузки данных (малых и больших объемов) из CSV-файлов в СУБД PostgreSQL и определены наиболее эффективные из них. Кроме того, была произведена визуализация полученных результатов.
