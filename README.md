@@ -51,6 +51,10 @@
 ![image](https://github.com/user-attachments/assets/a3b0e054-503a-48c7-90a7-751f3c9379f6)
 ![image](https://github.com/user-attachments/assets/1c0b9245-d3cd-4eab-9eb8-dd23cc8c21d5)
 
+`Panshina_Zinaida_Alekseevna_ERD_test_data.jpg` - файл ER-диаграммы для простых данных, находится в репозитории.
+
+`Panshina_Zinaida_Alekseevna_ERD_test_data_big.jpg` - файл ER-диаграммы для больших данных, находится в репозитории.
+
 Задание 2: Загрузка малых данных (sales_small). Метод: copy_expert (file)
 
 ![image](https://github.com/user-attachments/assets/32b2abea-9b5a-4da2-8f74-18123112e510)
