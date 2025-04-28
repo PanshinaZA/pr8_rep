@@ -58,12 +58,12 @@
 Задание 2: Загрузка малых данных (sales_small). Метод: copy_expert (file)
 
 ![image](https://github.com/user-attachments/assets/32b2abea-9b5a-4da2-8f74-18123112e510)
-![image](https://github.com/user-attachments/assets/cb767981-8cee-40a7-b849-566a0c1162f2)
+![image](https://github.com/user-attachments/assets/23c1f66a-4dec-4d46-aeb6-c9e09f1c08f5)
 
 Задание 3: Загрузка больших данных (sales_big). Метод: copy_expert (file)
 
 ![image](https://github.com/user-attachments/assets/9f722424-726a-41e2-925f-35e748054f6c)
-![image](https://github.com/user-attachments/assets/5096289c-7923-4752-8c4c-2f11cf748b3c)
+![image](https://github.com/user-attachments/assets/acb09dbe-972f-4e3c-a0fa-ab934516b303)
 
 Задание 4: SQL Анализ. SQL: Подсчитать записи в sales_small, где cost = 0.50.
 
